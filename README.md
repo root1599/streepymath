@@ -1,2 +1,2 @@
-# streepymath
-StreepyMath
+# streepymathwebsite
+The StreepyMath Website
